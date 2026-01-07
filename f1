@@ -4,4 +4,3 @@ echo "This line is from feature branch"
 echo "apt update -y " # From Feature Branch
 echo "This line is from master branch, changes in modified"
 echo "New lines"
-echo "New lines in staged"

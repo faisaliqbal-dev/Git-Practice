@@ -1,4 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
+=======
 echo "Hello world!!3456"
 echo "This line is from feature branch"
 echo "apt update -y " # From Feature Branch

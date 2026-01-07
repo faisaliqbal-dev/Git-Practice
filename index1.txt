@@ -9,3 +9,8 @@ Transmit local branch commits to the remote repository branch
 git pull
 fetch and merge any commits from the tracking remote branch
 rebase shows clear and clean history
+fetch and merge any commits from the tracking remote branch
+rebase shows clear and clean history
+fetch and merge any commits from the tracking remote branch
+rebase shows clear and clean history
+

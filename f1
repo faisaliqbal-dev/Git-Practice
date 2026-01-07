@@ -2,7 +2,6 @@
 echo "Hello world!!3456"
 echo "This line is from feature branch"
 echo "apt update -y " # From Feature Branch
-echo "Hello world!!3456"
 echo "This line is from feature branch"
 echo "This line is from master branch, changes in modified"
 echo "New lines"
